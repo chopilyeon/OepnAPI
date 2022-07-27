@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\wogml\Documents\openAPI\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1606366135.index
